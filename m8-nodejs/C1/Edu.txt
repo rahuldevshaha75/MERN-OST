@@ -1,0 +1,19 @@
+
+
+NODE JS Khutunati Live Class-1:
+
+
+
+1.What is Node js?
+2. Node js Package
+3. Node js Execution Features
+4. Node js server creation
+5. What is Server?
+6. Simple Req Res Using Node js
+7. res.writeHead()
+8. req.write()
+9. req.end()
+10. Node JS Server Run
+11. Package.Json
+12. How to Install Packages
+13. Inspect Req-res from Browser.
